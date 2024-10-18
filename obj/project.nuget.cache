@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "FXd8lnVqjknxA+BqbgQGrB7RFsDudlkm4BXbat2p+17cg77QDr+5s0T69XUgErWNNNbxZiE/WznT6wob+IP18Q==",
+=======
+  "dgSpecHash": "5vX6ocIp/68xyiO03kmELRpYSu0LMhT8aCBAfMnC7idQZPPrSPhp4Lly42g5/GnuC51n/2SnLIVglG97GgdP7Q==",
+>>>>>>> Stashed changes
   "success": true,
-  "projectFilePath": "/Users/danetsao/Desktop/School/Fall2024/CS330/Fall2024-Assignment3-dltsao/Fall2024-Assignment3-dltsao.csproj",
+  "projectFilePath": "/Users/danetsao/Desktop/School/Fall2024/CS330/Fall2024-Assignment3-dltsao/Fall2024-Assignment3-dltsao/Fall2024-Assignment3-dltsao.csproj",
   "expectedPackageFiles": [
     "/Users/danetsao/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/microsoft.aspnetcore.cryptography.internal/7.0.0/microsoft.aspnetcore.cryptography.internal.7.0.0.nupkg.sha512",

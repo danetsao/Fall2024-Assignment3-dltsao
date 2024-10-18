@@ -1748,11 +1748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danetsao/Desktop/School/Fall2024/CS330/Fall2024-Assignment3-dltsao/Fall2024-Assignment3-dltsao.csproj",
+      "projectUniqueName": "/Users/danetsao/Desktop/School/Fall2024/CS330/Fall2024-Assignment3-dltsao/Fall2024-Assignment3-dltsao/Fall2024-Assignment3-dltsao.csproj",
       "projectName": "Fall2024-Assignment3-dltsao",
-      "projectPath": "/Users/danetsao/Desktop/School/Fall2024/CS330/Fall2024-Assignment3-dltsao/Fall2024-Assignment3-dltsao.csproj",
+      "projectPath": "/Users/danetsao/Desktop/School/Fall2024/CS330/Fall2024-Assignment3-dltsao/Fall2024-Assignment3-dltsao/Fall2024-Assignment3-dltsao.csproj",
       "packagesPath": "/Users/danetsao/.nuget/packages/",
-      "outputPath": "/Users/danetsao/Desktop/School/Fall2024/CS330/Fall2024-Assignment3-dltsao/obj/",
+      "outputPath": "/Users/danetsao/Desktop/School/Fall2024/CS330/Fall2024-Assignment3-dltsao/Fall2024-Assignment3-dltsao/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/danetsao/.nuget/NuGet/NuGet.Config"
