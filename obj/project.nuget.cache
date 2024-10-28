@@ -1,15 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "FXd8lnVqjknxA+BqbgQGrB7RFsDudlkm4BXbat2p+17cg77QDr+5s0T69XUgErWNNNbxZiE/WznT6wob+IP18Q==",
+  "dgSpecHash": "GcUNK9xaD9C+n2+Y31dDRJkPfxjfeDX0OSmDwwm2JB0Q5JWQloSeUr87M8lpEaXXkld+wRGGmnBpndeAywlPtQ==",
   "success": true,
   "projectFilePath": "/Users/danetsao/Desktop/School/Fall2024/CS330/Fall2024-Assignment3-dltsao/Fall2024-Assignment3-dltsao.csproj",
   "expectedPackageFiles": [
+    "/Users/danetsao/.nuget/packages/azure.ai.openai/2.0.0/azure.ai.openai.2.0.0.nupkg.sha512",
+    "/Users/danetsao/.nuget/packages/azure.core/1.43.0/azure.core.1.43.0.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/microsoft.aspnetcore.cryptography.internal/7.0.0/microsoft.aspnetcore.cryptography.internal.7.0.0.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/7.0.0/microsoft.aspnetcore.cryptography.keyderivation.7.0.0.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/7.0.0/microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.0.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/7.0.0/microsoft.aspnetcore.identity.entityframeworkcore.7.0.0.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/microsoft.aspnetcore.identity.ui/7.0.0/microsoft.aspnetcore.identity.ui.7.0.0.nupkg.sha512",
+    "/Users/danetsao/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/microsoft.data.sqlite.core/7.0.0/microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/microsoft.entityframeworkcore/7.0.0/microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0/microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
@@ -34,14 +37,22 @@
     "/Users/danetsao/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/Users/danetsao/.nuget/packages/openai/2.0.0/openai.2.0.0.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.2/sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.2/sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.2/sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/danetsao/.nuget/packages/system.clientmodel/1.1.0/system.clientmodel.1.1.0.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
+    "/Users/danetsao/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/danetsao/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/Users/danetsao/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/danetsao/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/danetsao/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
-    "/Users/danetsao/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+    "/Users/danetsao/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
+    "/Users/danetsao/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "/Users/danetsao/.nuget/packages/vadersharp2/3.3.2.1/vadersharp2.3.3.2.1.nupkg.sha512"
   ],
   "logs": []
 }
